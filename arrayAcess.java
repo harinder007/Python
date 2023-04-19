@@ -3,6 +3,7 @@ class arrayAcess{
         int[] age={10,20,30,40};//creating an array
         System.out.println("age is :"+age[2]);
         System.out.println("age is :"+age[3]);
+        
 
     }
 }
