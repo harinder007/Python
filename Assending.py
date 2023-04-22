@@ -11,4 +11,4 @@ for i in x:
 if asc:
         print("Not is Asscending order")
 else:
-        print("descending")
+        print("Descending")
