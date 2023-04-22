@@ -1,3 +1,5 @@
+# reverse the given number
+
 print("Enter a Number: ")
 num = int(input())
 
