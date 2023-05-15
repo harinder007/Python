@@ -1,3 +1,5 @@
+#factotial of a number 
+
 x=int(input("Enter any number "))
 #for(i=1;i<=x;i++)
 fact=x
