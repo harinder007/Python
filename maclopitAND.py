@@ -2,6 +2,7 @@
 a=int(input("Enter first input:"))
 b=int(input("Enter first input:"))
 
+
 w1=5
 w2=5
 
